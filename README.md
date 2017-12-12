@@ -1,3 +1,13 @@
+# Regression Model to Predict College Completion Rates using College Scoreboard API
+
+The college scoreboard API is a collection of higher education data from the government that has a ton of data that spans a number of years and categories. The relationships to analyze are almost limitless.
+
+The variable that I am interested in, my target variable, is the completion rate (or the percentage that students complete their degree) for given colleges. To investigate this variable, I built a regression model that aims to predict the completion percentage for a given college. In a nutshell, I tried a few different variations of a traditional machine learning model to find the best one, and then I will compare it to a neural network model. See the code in the jupyter notebook to see how exactly I went about doing that.
+
+All data is from 2015, which is the most recent year that all data needed for model was available.
+
+
+
 # Project 4 - Choose your own adventure
 
 Due Date: November 29, 2017
